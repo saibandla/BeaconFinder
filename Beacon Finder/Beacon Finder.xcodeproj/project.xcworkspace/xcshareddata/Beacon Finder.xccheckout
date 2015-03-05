@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C9C7FDA6-6F6B-42B6-AD1D-1FED0D7D14F7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Beacon Finder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E6469CCE2DB526EC7638F7BCE72D0302CF01D04B</key>
+		<string>https://github.com/saibandla/BeaconFinder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Beacon Finder/Beacon Finder.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E6469CCE2DB526EC7638F7BCE72D0302CF01D04B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/saibandla/BeaconFinder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E6469CCE2DB526EC7638F7BCE72D0302CF01D04B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6469CCE2DB526EC7638F7BCE72D0302CF01D04B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BeaconFinder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
